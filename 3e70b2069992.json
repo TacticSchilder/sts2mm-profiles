@@ -1,0 +1,305 @@
+{
+  "name": "TacticSchilder",
+  "game_version": null,
+  "created_by": "TacticSchilder",
+  "mods": [
+    {
+      "name": "Acheron",
+      "version": "v0.4.4",
+      "source": null,
+      "hash": "5893f014570c6c739622c7d97ab78d9c618e58d612a4a05571fc82931089167e",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_67927935.zip",
+      "bundle_sha256": "67927935ce573e4f6ff5e680d56013c6eca795da59b41ade46fb742ca698b2f6"
+    },
+    {
+      "name": "AncientWaifus",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "aaed46f9a90c9d8db9e2b9976f924bf0df75ff3f727b27825bf8f0738c16e1c7",
+      "files": [
+        "AncientWaifus\\AncientWaifus.dll",
+        "AncientWaifus\\AncientWaifus.json",
+        "AncientWaifus\\AncientWaifus.pck"
+      ],
+      "folder_name": "AncientWaifus",
+      "mod_id": "AncientWaifus",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_63a375e8.zip",
+      "bundle_sha256": "63a375e879473f764c8ac35af7b7c3506839b24e5a89252d75ecef181b2301c8"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.8",
+      "source": null,
+      "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_df378f63.zip",
+      "bundle_sha256": "df378f630a1cf416c33405c54b05a19c04a43d54862d117219a1c37311aa4bff"
+    },
+    {
+      "name": "Civilight Eterna as The Defect",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "c28bd93ef194cd79a100928caf39698572b0c8a2cfcc360920d39bc3eec258f5",
+      "files": [
+        "CEdefect\\CEdefect.dll",
+        "CEdefect\\CEdefect.json",
+        "CEdefect\\CEdefect.pck"
+      ],
+      "folder_name": "CEdefect",
+      "mod_id": "CEdefect",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Civilight_Eterna_as_The_Defect_v1.0.0_d98ae9f8.zip",
+      "bundle_sha256": "d98ae9f86e1bd575e902be416638ac48e921a3c2cd2463bb2eeed25f72ecec28"
+    },
+    {
+      "name": "Faust",
+      "version": "0.1.5.beta",
+      "source": null,
+      "hash": "cc56ccf2647d09c1bcc5eb782dbda37f3b5be40cb4c298c06ee303088b0b042e",
+      "files": [
+        "Faust\\Faust.dll",
+        "Faust\\Faust.json",
+        "Faust\\Faust.pck"
+      ],
+      "folder_name": "Faust",
+      "mod_id": "Faust",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Faust_v0.1.5.beta_fe145f5e.zip",
+      "bundle_sha256": "fe145f5e0eabf59f0bd14ee11f74b6c221012b9e1eb5e837d1095b9ae72a83f6"
+    },
+    {
+      "name": "Honglu",
+      "version": "0.1.9.beta",
+      "source": null,
+      "hash": "f57fb698f51c2af70e5b4a8bb54244943f0d70785d5d02706f31553b608c4606",
+      "files": [
+        "Honglu\\Honglu.dll",
+        "Honglu\\Honglu.json",
+        "Honglu\\Honglu.pck"
+      ],
+      "folder_name": "Honglu",
+      "mod_id": "Honglu",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Honglu_v0.1.9.beta_d8879382.zip",
+      "bundle_sha256": "d88793824004180e430a49ed1374cf9f96280fbdcbd8530985aeeecbe30f8f2e"
+    },
+    {
+      "name": "Kafka",
+      "version": "v0.12.2",
+      "source": null,
+      "hash": "3fe3981e68f9acc3066e46f0ca9885713f1a85a9347c2365fe3a40361e8194ac",
+      "files": [
+        "Kafka\\Kafka.dll",
+        "Kafka\\Kafka.json",
+        "Kafka\\Kafka.pck"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_ddd3f0d1.zip",
+      "bundle_sha256": "ddd3f0d1dbec6aae102ce099d8114f412879bd7b9216b592423a9b296d164418"
+    },
+    {
+      "name": "Kaltsit Necrobinder",
+      "version": "1.1.4",
+      "source": null,
+      "hash": "69b264d6e3b1da9bd0ce346256e42e7760de6fbcf4796a2e54c65b00a81b6db2",
+      "files": [
+        "KaltsitNecrobinder.dll",
+        "KaltsitNecrobinder.json",
+        "KaltsitNecrobinder.pck"
+      ],
+      "folder_name": "KaltsitNecrobinder",
+      "mod_id": "KaltsitNecrobinder",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Kaltsit_Necrobinder_v1.1.4_640ac1a5.zip",
+      "bundle_sha256": "640ac1a506861fcc7efcbf1401f267ac2c79b9389d3567c0b395d6e262e6797a"
+    },
+    {
+      "name": "Limbus Core",
+      "version": "v1.1.2",
+      "source": null,
+      "hash": "10af028f5792ab889151a9975317ade0e2733480c19170e6630efd6091f67cbf",
+      "files": [
+        "LimbusCore\\LimbusCore.dll",
+        "LimbusCore\\LimbusCore.json",
+        "LimbusCore\\LimbusCore.pck"
+      ],
+      "folder_name": "LimbusCore",
+      "mod_id": "LimbusCore",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Limbus_Core_v1.1.2_9a6fd1f3.zip",
+      "bundle_sha256": "9a6fd1f31ab725fc526dc298ac79167449c7c785b4864cfb0a328992312847ee"
+    },
+    {
+      "name": "Ryoshu",
+      "version": "0.3.3.beta",
+      "source": null,
+      "hash": "997bc7474d25c0dea577960c37bb9f46e24fbcb2bf79ff203ce4d54122e6c5c6",
+      "files": [
+        "Ryoshu\\Ryoshu.dll",
+        "Ryoshu\\Ryoshu.json",
+        "Ryoshu\\Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.3.beta_0c61eae1.zip",
+      "bundle_sha256": "0c61eae18967e33bf759588f06e194e542823ff80ca5a4df6bd1132a783aeb6c"
+    },
+    {
+      "name": "SK",
+      "version": "1.0",
+      "source": null,
+      "hash": "5e1867d203bb010d2134f7921c3e7bff3d71d97a8a8e1dae51aa506b05fc671b",
+      "files": [
+        "SK\\SK.dll",
+        "SK\\SK.json",
+        "SK\\SK.pck"
+      ],
+      "folder_name": "SK",
+      "mod_id": "SK",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/SK_v1.0_f43bdd11.zip",
+      "bundle_sha256": "f43bdd11a29fa52e286ee7f08200fa51136eff98fdc428ee010f22b6f6cb3184"
+    },
+    {
+      "name": "StampTheSpire2",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "3c74f00eb052efc4e1221e355e2da0dbde08c6626ab0c3dcecbac9ec21d64687",
+      "files": [
+        "mod_manifest.json"
+      ],
+      "folder_name": "mod_manifest",
+      "mod_id": "StampTheSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/StampTheSpire2_v0.1.0_f90c7f7a.zip",
+      "bundle_sha256": "f90c7f7a889732d9f7dba636660f6cce2344407645e9b537859228f2fcc85bce"
+    },
+    {
+      "name": "The Immortal（藤原妹红）",
+      "version": "v1.0.4",
+      "source": null,
+      "hash": "d04909a32c9cce3f066ac90d700ee9e483d61e1f53d84ac65ac2d63cc4ad3351",
+      "files": [
+        "MokouMod\\MokouMod.dll",
+        "MokouMod\\MokouMod.json",
+        "MokouMod\\MokouMod.pck",
+        "MokouMod\\MokouMod.pdb"
+      ],
+      "folder_name": "MokouMod",
+      "mod_id": "MokouMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/The_Immortal._v1.0.4_6bb8b9bf.zip",
+      "bundle_sha256": "6bb8b9bf8548482a7fdfd4281f9e1a8803ead7e08e898e9ff2f7ce6dd9f4248e"
+    },
+    {
+      "name": "The Index Nursefather Yi Sang",
+      "version": "v1.1.1",
+      "source": null,
+      "hash": "d17dcef05a894061943695b51a086ac55c73e2106a1aa4ae71cd0bf20cbf54a7",
+      "files": [
+        "RienSang\\RienSang.dll",
+        "RienSang\\RienSang.json",
+        "RienSang\\RienSang.pck"
+      ],
+      "folder_name": "RienSang",
+      "mod_id": "RienSang",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/The_Index_Nursefather_Yi_Sang_v1.1.1_10578c4b.zip",
+      "bundle_sha256": "10578c4bdfcae92d0db49d1cac0bdbd4a35ecfdff52de1ec9fdb94ce98f0a634"
+    },
+    {
+      "name": "The Miner",
+      "version": "0.1.3.1",
+      "source": null,
+      "hash": "a2b69283698429aeb99a196cb9858a4fb2d84269cab048626c9f6ef761253258",
+      "files": [
+        "Steve\\Steve.dll",
+        "Steve\\Steve.json",
+        "Steve\\steve.pck"
+      ],
+      "folder_name": "Steve",
+      "mod_id": "Steve",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/The_Miner_v0.1.3.1_372a416e.zip",
+      "bundle_sha256": "372a416e2acb1bb49ef4b6a856471c296ef8021c27003c3a8c41775b1b786e65"
+    },
+    {
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "SlaytheSpire2.unlockAll\\mod_manifest.json",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.dll",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.pck",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.pdb"
+      ],
+      "folder_name": "SlaytheSpire2.unlockAll",
+      "mod_id": "UnlockAllMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_50be4817.zip",
+      "bundle_sha256": "50be4817d8910455b97c80b44e2c07a010548be09bbb7aede42104869d9c6a07"
+    },
+    {
+      "name": "System.Drawing.Common",
+      "version": "unknown",
+      "source": null,
+      "hash": "a3cd7f55f94f1abaf9b2f75cc1098179dfeeaa4341c0470c0c2a1e6a750aa7ec",
+      "files": [
+        "System.Drawing.Common.dll"
+      ],
+      "folder_name": "System.Drawing.Common",
+      "enabled": false,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/System_Drawing_Common_vunknown_054f3299.zip",
+      "bundle_sha256": "054f3299c52ac4c145b78a2c4afd47bd2ed35c4d5bf016544db126f0ae0f878c"
+    },
+    {
+      "name": "System.Private.Windows.Core",
+      "version": "unknown",
+      "source": null,
+      "hash": "da4bf1a213ece176af7a94fedb695a88b08bc76be90abdd7100217ead59a652b",
+      "files": [
+        "System.Private.Windows.Core.dll"
+      ],
+      "folder_name": "System.Private.Windows.Core",
+      "enabled": false,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/System_Private_Windows_Core_vunknown_b235b23e.zip",
+      "bundle_sha256": "b235b23e2de6c6254480605511164e31a82c72a7d4e25a111a5082fe8053d268"
+    },
+    {
+      "name": "System.Private.Windows.GdiPlus",
+      "version": "unknown",
+      "source": null,
+      "hash": "cf4429e2a2b00990c703f9457001d8d81436c948e2f2a7cb937943c079e1d598",
+      "files": [
+        "System.Private.Windows.GdiPlus.dll"
+      ],
+      "folder_name": "System.Private.Windows.GdiPlus",
+      "enabled": false,
+      "bundle_url": "https://github.com/TacticSchilder/sts2mm-profiles/releases/download/bundles/System_Private_Windows_GdiPlus_vunknown_1e77df93.zip",
+      "bundle_sha256": "1e77df936b6c958e5c0f898e9fbfa080d1e85ad2ef45d35c3f4116eeed3922bc"
+    }
+  ],
+  "created_at": "2026-05-30T18:34:37.671192Z",
+  "updated_at": "2026-05-30T18:34:37.671192Z",
+  "public": false
+}
